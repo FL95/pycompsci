@@ -1,0 +1,28 @@
+CHP 1.10 Exercises
+Review Questions
+
+True/False
+==========
+1.False
+2.True
+3.False
+4.True
+5.False
+6.True
+7.False
+8.True
+9.False
+10.False
+
+Multiple Choice
+=============
+1.B
+2.D
+3.D
+4.A
+5.B
+6.B
+7.C
+8.B
+9.A
+10.D
