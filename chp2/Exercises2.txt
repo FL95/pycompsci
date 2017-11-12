@@ -1,0 +1,54 @@
+CHP 2 Exercises
+Review Questions
+
+True/False
+==========
+1.False
+2.True
+3.False
+4.True
+5.False
+6.True
+7.True
+8.False
+9.True
+10.False
+
+Multiple Choice
+===============
+1.C
+2.A
+3.D
+4.C
+5.B
+6.B
+7.B
+8.D
+9.A
+10.D
+
+Discussion <-some answers may be wrong
+==========
+1.Analyzing the problem, specifying exactly what your program will do, designing the algortihm to solve the problem in pseudocode,
+  implementing/translating the pseudocode into a programming language, testing and debugging your program, maintaining and updating your program.
+3.A Python for loop implements a definite loop. A counted loop is a specific
+  kind of definite loop that is designed to iterate a certain number of times.
+4. a)0
+     1
+     4
+     9
+     16
+   b)3 1 4 1 5
+   c)Hello
+     Hello
+     Hello
+     Hello
+   d)0 1
+     1 2
+     2 4
+     3 8
+     4 16
+5.It's best practice to write out an algortihm in pseudocode because it makes it easier to focus on designing the algortihm without the mental
+  overhead of remembering programming language syntax.
+6.I would guess the "print" keyword parameter "sep" allows you to specify a delimiter or seperator for the contents of the print function.
+7.I think the program will print "start", and then "end". It will skip printing "Hello" because of the range keyword having a parameter of 0.

@@ -3,8 +3,13 @@
 # Example from Python Programming: An Introduction to Computer Science by John Zelle
 
 def main():
-    celsius = eval(input("what is the Celsius temperature?"))
-    fahrenheit = 9/5 * celsius + 32
-    print("The temperature is", fahrenheit, "degrees Fahrenheit")
+    print("This program converts Celsius temperatures to Fahrenheit.")
+    
+    for i in range(5):
+        celsius = eval(input("What is the Celsius temperature?"))
+        fahrenheit = 9/5 * celsius + 32
+        print("The temperature is", fahrenheit, "degrees Fahrenheit")
+
+    input("Press the <Enter> key to quit.")
 
 main()

@@ -1,17 +1,17 @@
-# futval.py
-#    A program to compute the value of an investment
-#    carried x number of years into the future
+# futvalyearly.py
+#    Future value of an amount invested yearly
 
 def main():
     print("This program calculates the future value of an investment")
     print()
 
-    principal = eval(input("Enter the initial principle: "))
+    payment = eval(input("Enter amount to invest each year: "))
     apr = eval(input("Enter the annual interest rate: "))
     years = eval(input("Enter the number of years: "))
 
+    principal = 0.0
     for i in range(years):
-        principal = principal * (1 + apr)
+        principal = (principal + payment) * (1 + apr)
 
 
     print("The value in ", years, "years is: ", principal)
